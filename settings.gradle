@@ -1,0 +1,2 @@
+rootProject.name = "SmartCareerGuide"
+include ':app'
